@@ -34,7 +34,7 @@ set hlsearch
 hi Search term=bold cterm=reverse ctermbg=7
 set laststatus=2
 set statusline=%f%m%r%h%w\ [%Y]\ [0x%02.2B]%<\ %F%=%4v,%4l\ %3p%%\ of\ %L
-colorscheme koehler
+colorscheme slate
 set path+=**
 nnoremap <silent> <C-l> :nohl<CR><C-l>
 set backspace=indent,eol,start
