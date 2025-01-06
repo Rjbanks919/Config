@@ -33,6 +33,7 @@ syntax on
 
 " Enable line numbers
 set number
+set relativenumber
 
 " Highlight matching braces
 set showmatch
